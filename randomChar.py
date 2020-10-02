@@ -4,8 +4,6 @@
 # 
 # Objective: Given a stream of elements too large to store in memory. Pick a ran# random element from the stream with uniform probability
 import random
-import os
-import sys
 
 def getCharacter(theString):
     "Function will take givenString as an input and return a random character from that string"
